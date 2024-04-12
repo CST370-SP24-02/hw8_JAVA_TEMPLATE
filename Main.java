@@ -1,6 +1,6 @@
 /*
  * INSTRUCTION:
- *     This is a Java starting code for hw7.
+ *     This is a Java starting code for hw8.
  *     When you finish the development, commit and push the file to github.
  */
 
